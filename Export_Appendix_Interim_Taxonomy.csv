@@ -1,0 +1,10 @@
+﻿;;Purpose of Reporting;;;;;Audience;;;;;;State of AI Lifecycle Covered;;;;;Presentation Form;;;;Verification Model / Reproducibility;;;;Scope / Represented Values;;;;;;Update Frequency;;;Level of Automatization;;
+;;Transparency;Accountability / Auditability;Ethical Value Communication (incl. Sustainability);Risk Management;User Enablement;Technical Experts;Regulators;Business Decision Makers;End Users;Public;Non-Disclosed;Dataset stage;Model development;Model (published);System/Application (published);Usage;Textual structured;Textual unstructured;Visual;Multimodal;Self-declared;Internally audited;Externally audited;Community audited;Performance;Risk & Safety;Societal impact (fairness, bias);Environmental Impact;Governance ;XAI;Static;Periodic updates;Continuous updates;automated;manual;semi-automated
+Impact Assessment Card: Communicating Risks and Benefits of AI Uses;10.1145/3757482;0;0;0;1;0;1;1;0;1;0;0;0;0;0;1;0;0;0;0;1;1;0;0;0;1;1;1;0;0;0;0;1;0;0;1;0
+Toward Patient-Centered AI Fact Labels: Leveraging Extrinsic Trust Cues;10.1145/3715336.3735758;1;1;1;0;0;0;0;0;1;0;0;0;0;0;1;0;1;0;0;0;1;0;0;0;1;1;0;0;1;0;0;0;0;0;1;0
+RiskRAG: A Data-Driven Solution for Improved AI Model Risk Reporting;https://dl.acm.org/doi/full/10.1145/3706598.3713979;0;0;0;1;0;1;0;0;1;0;0;0;0;0;1;0;1;0;0;0;1;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+AI Model Cards: State of the Art and Path to Automated Use;10.5220/0013706600003985;1;0;1;0;1;1;1;1;1;1;0;0;0;1;0;0;0;0;0;1;1;0;0;0;1;1;1;0;0;0;0;0;0;0;0;1
+Expanding ML-Documentation Standards For Better Security;10.1109/REW66121.2025.00041;0;0;0;1;0;1;0;0;0;0;0;0;1;1;0;0;1;0;0;0;1;0;0;0;0;1;0;0;0;0;1;0;0;0;0;1
+FactSheets;10.1147/JRD.2019.2942288;1;1;1;1;1;0;0;0;0;0;1;0;0;1;0;0;0;1;0;0;0;1;0;0;0;1;1;0;0;0;0;0;0;0;0;0
+“Model Cards for Model Reporting” in 2024: Reclassifying Category of Ethical Considerations in Terms of Trustworthiness and Risk Management;10.1007/978-3-031-84457-7_11;1;1;1;1;1;0;0;0;0;0;1;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0
+Model cards for model reporting;10.1145/3287560.3287596;1;1;0;1;1;0;0;0;0;0;1;0;0;1;0;0;0;0;0;1;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0

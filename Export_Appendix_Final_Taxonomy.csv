@@ -1,0 +1,65 @@
+﻿;;AI Reporting Audience;;;;;AI Reporting Object;;;;;;Accountability and Reproducibility;;;;;;;;;Generation and Maintenance;;;;;;;;;
+Title;DOI;User Study;Audience Types;;;Differentiated Adressing;AI Model Type;;;AI Reporting Granularity;;;Responsibility;;;Validation;;;Reproducibility;;;Update Frequency;;;;Use of Automation;;;;LLM Usage;
+;;"(Binary; 0 = Not Conducted)";Broad or not Specified;Laymen;Technically Versed;"(Binary; 0 = No)";Discriminative AI;Generative AI;Both or not Specified;Singular Model;Model Family;AI System;Not Specified;Developer Responsibility;Deployer or Distributor Responsibility;No Validation;Internal Validation;External Validation;Quantitative Reproducibility;Qualitative Reasoning ;No Reproducibility;Static;Event-Triggered ;Continuous;Not Specified;Fully Automated;Semi-Automated;Manual;Not Specified;Not Mentioned;Used for Qualitative Aspects
+A Semantic Approach for Linked Model, Data, and Dataspace Cards;10.1109/ACCESS.2025.3572211;0;1;0;0;0;0;1;0;0;1;0;1;0;0;1;0;0;1;0;0;0;0;0;1;0;1;0;0;1;0
+AI Risk Profiles: A Standards Proposal for Pre-deployment AI Risk Disclosures;10.1609/aaai.v38i21.30348;0;1;0;0;0;0;0;1;0;0;1;1;0;0;1;0;0;0;1;0;0;0;1;0;0;0;1;0;1;0
+Expanding ML-Documentation Standards For Better Security;10.1109/REW66121.2025.00041;0;0;0;1;1;0;0;1;1;0;0;1;0;0;0;1;1;0;0;1;0;0;1;0;0;1;0;0;1;0
+RiskRAG: A Data-Driven Solution for Improved AI Model Risk Reporting;10.1145/3706598.3713979;1;0;0;1;1;0;0;1;1;0;0;0;1;1;0;1;0;1;1;0;0;0;1;0;0;1;0;0;0;1
+Method Cards for Prescriptive Machine-Learning Transparency;10.1145/3522664.3528600;0;0;0;1;1;0;0;1;0;1;0;0;1;0;1;0;0;1;1;0;0;0;1;0;0;0;0;1;1;0
+Prescriptive and Descriptive Approaches to Machine-Learning Transparency;10.1145/3491101.3519724;0;0;0;1;1;0;0;1;0;1;0;0;1;0;1;0;0;1;1;0;0;0;1;0;0;0;0;1;1;0
+The State of Documentation Practices of Third-Party Machine Learning Models and Datasets;10.1109/MS.2024.3366111;0;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Leveraging Knowledge Graphs for AI System Auditing and Transparency;10.1016/j.websem.2024.100849;0;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+OpenML: Insights from 10 years and more than a thousand papers;10.1016/j.patter.2025.101317;0;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Regulating AI. A label to complete the proposed Act on Artificial Intelligence;10.1016/j.clsr.2022.105657;0;1;0;0;0;1;0;0;0;0;1;0;1;1;0;0;1;0;0;1;0;0;0;1;0;0;0;1;1;0
+“Model Cards for Model Reporting” in 2024: Reclassifying Category of Ethical Considerations in Terms of Trustworthiness and Risk Management;10.1007/978-3-031-84457-7_11;0;1;0;0;0;0;0;1;1;0;0;0;1;1;1;0;0;0;0;1;0;0;0;1;0;0;0;1;1;0
+AI Cards: Towards an Applied Framework for Machine-Readable AI and Risk Documentation Inspired by the EU AI Act;10.1007/978-3-031-68024-3_3;0;1;0;0;0;0;0;1;0;0;1;1;0;0;1;0;0;0;0;1;0;0;0;1;0;0;0;1;1;0
+AI Model Cards: State of the Art and Path to Automated Use;10.5220/0013706600003985;0;1;0;0;0;0;0;1;1;0;0;1;0;0;1;0;1;1;1;0;0;1;0;0;1;0;0;0;1;0
+AI Usage Cards: Responsibly Reporting AI-Generated Content;10.1109/JCDL57899.2023.00060;0;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Answering User Questions About Machine Learning Models Through Standardized Model Cards;10.1109/ICSE55347.2025.00066;0;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Automatic Generation of Model and Data Cards: A Step Towards Responsible AI;10.18653/v1/2024.naacl-long.110;0;1;0;0;0;0;0;1;1;0;0;0;1;1;0;1;0;0;1;0;0;1;0;0;1;0;0;0;0;1
+Documenting Ethical Considerations in Open Source AI Models;10.1145/3674805.3686679;0;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+FactSheets for Hardware-Aware AI Models: A Case Study of Analog in Memory Computing AI Models;10.1109/SSE60056.2023.00029;1;1;0;0;1;1;0;0;1;0;0;0;1;0;0;1;0;1;0;0;0;0;0;1;0;0;0;1;1;0
+Impact Assessment Card: Communicating Risks and Benefits of AI Uses;10.1145/3757482;1;1;0;0;1;0;0;1;0;0;1;0;0;1;0;0;1;0;0;1;0;0;0;1;0;0;0;1;1;0
+Interactive Model Cards: A Human-Centered Approach to Model Documentation;10.1145/3531146.3533108;1;0;1;0;1;1;0;0;1;0;0;1;0;0;1;0;0;1;0;0;0;0;1;0;0;1;0;0;1;0
+Machine Learning Model Cards Transparency Review: Using model card toolkit;10.1109/PuneCon50868.2020.9362382;0;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Model cards for model reporting;10.1145/3287560.3287596;0;1;0;0;0;1;0;0;1;0;0;0;1;0;0;1;1;1;0;0;0;1;0;0;0;0;1;0;1;0
+Model Cards Revisited: Bridging the Gap Between Theory and Practice for Ethical AI Requirements;10.1109/RE63999.2025.00034;0;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+What's documented in AI? Systematic Analysis of 32K AI Model Cards;https://doi.org/10.48550/arXiv.2402.05160;0;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Systematic analysis of 32,111 AI model cards characterizes documentation practice in AI;10.1038/s42256-024-00857-z;0;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Toward a standard formal semantic representation of the model card report;10.1186/s12859-022-04797-6;0;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Toward Patient-Centered AI Fact Labels: Leveraging Extrinsic Trust Cues;10.1145/3715336.3735758;1;0;1;0;1;1;0;0;0;0;1;1;0;0;1;0;0;0;0;1;0;0;0;1;0;0;1;0;1;0
+Towards Safe Machine Learning Lifecycles with ESG Model Cards;10.1007/978-3-031-40953-0_31;0;1;0;0;0;0;0;1;1;0;0;1;0;0;1;0;0;1;0;0;0;0;1;0;0;1;0;0;1;0
+Using Model Cards for ethical reflection on machine learning models: an interview-based study;10.5753/jis.2024.3444;1;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Using Model Cards for Ethical Reflection: A Qualitative Exploration;10.1145/3554364.3559117;0;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Analyzing the Evolution and Maintenance of ML Models on Hugging Face;10.1145/3643991.3644898;0;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Aspirations and Practice of ML Model Documentation: Moving the Needle with Nudging and Traceability;10.1145/3544548.3581518;0;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Designerly Understanding: Information Needs for Model Transparency to Support Design Ideation for AI-Powered User Experience;10.1145/3544548.3580652;0;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Foundation Model Transparency Reports;https://doi.org/10.1609/aies.v7i1.31628;0;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+How do Hugging Face Models Document Datasets, Bias, and Licenses? An Empirical Study;;0;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Laminator: Verifiable ML Property Cards using Hardware-assisted Attestations;10.1145/3714393.3726492;0;1;0;0;0;0;0;1;1;0;0;0;1;1;0;1;1;1;0;0;0;1;0;0;1;0;0;0;1;0
+The Model Card Authoring Toolkit: Toward Community-centered, Deliberation-driven AI Design;10.1145/3531146.3533110;1;0;1;0;1;1;0;0;0;0;1;0;0;1;0;1;0;0;0;1;0;1;0;0;0;1;0;0;1;0
+Towards a Responsible AI Metrics Catalogue: A Collection of Metrics for AI Accountability;10.1145/3644815.3644959;0;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Towards training reproducible deep learning models;10.1145/3510003.3510163;0;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Understanding and Supporting the ML Supply Chain through ML Bill of Materials;10.1109/ICSE-Companion66252.2025.00044;0;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Value Cards: An Educational Toolkit for Teaching Social Impacts of Machine Learning through Deliberation;10.1145/3442188.3445971;1;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+What do we know about Hugging Face? A systematic literature review and quantitative validation of qualitative claims;10.1145/3674805.3686665;0;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+A Methodology for Creating AI FactSheets;https://doi.org/10.48550/arXiv.2006.13796;0;1;0;0;1;0;0;1;1;0;0;1;0;1;0;0;1;0;1;0;0;0;0;1;0;1;0;0;1;0
+AI Bill of Materials and Beyond: Systematizing Security Assurance through the AI Risk Scanning (AIRS) Framework;https://doi.org/10.48550/arXiv.2511.12668;0;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+AI/ML Model Cards in Edge AI Cyberinfrastructure: towards Agentic AI;https://doi.org/10.48550/arXiv.2511.21661;0;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Aspirations and Practice of Model Documentation: Moving the Needle with Nudging and Traceability;https://doi.org/10.48550/arXiv.2204.06425;0;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+AutoLLM-CARD: Towards a Description and Landscape of Large Language Models;https://doi.org/10.48550/arXiv.2409.17011;0;1;0;0;0;0;1;0;1;0;0;1;0;0;1;0;0;0;0;1;1;0;0;0;1;0;0;0;0;1
+Benchmarking bias: Expanding clinical AI model card to incorporate bias reporting of social and non-social factors;https://doi.org/10.48550/arXiv.2311.12560;0;0;1;0;1;1;0;0;1;0;0;1;0;0;1;0;0;0;0;1;0;0;0;1;0;0;1;0;1;0
+Bridging the Communication Gap: Evaluating AI Labeling Practices for Trustworthy AI Development;https://doi.org/10.48550/arXiv.2501.11909;1;1;0;0;1;1;0;0;1;0;0;1;0;0;0;1;0;1;0;0;0;0;0;1;1;0;0;0;1;0
+Building an Open AIBOM Standard in the Wild;https://doi.org/10.48550/arXiv.2510.07070;1;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Coordinated Flaw Disclosure for AI: Beyond Security Vulnerabilities;https://doi.org/10.48550/arXiv.2402.07039;0;1;0;0;0;0;0;1;1;0;0;0;0;1;0;0;1;0;1;0;0;1;0;0;0;1;0;0;1;0
+DAG Card is the new Model Card;https://doi.org/10.48550/arXiv.2110.13601;0;1;0;0;0;1;0;0;1;0;0;0;1;0;1;0;0;1;0;0;0;1;0;0;0;1;0;0;1;0
+Dynamic Documentation for AI Systems;https://doi.org/10.48550/arXiv.2303.10854;0;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+FactSheets: Increasing Trust in AI Services through Supplier's Declarations of Conformity; ;0;0;1;0;0;1;0;0;0;0;1;0;0;1;1;0;0;0;0;1;0;1;0;0;0;0;1;0;1;0
+Human-aligned AI Model Cards with Weighted Hierarchy Architecture;https://doi.org/10.48550/arXiv.2510.06989;1;1;0;0;1;0;1;0;1;0;0;1;0;0;0;1;0;0;0;1;0;1;0;0;0;1;0;0;0;1
+Mapping Industry Practices to the EU AI Act's GPAI Code of Practice Safety and Security Measures;https://doi.org/10.48550/arXiv.2504.15181;0;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Model Cards for AI Teammates: Comparing Human-AI Team Familiarization Methods for High-Stakes Environments;https://doi.org/10.48550/arXiv.2505.13773;1;0;1;0;1;1;0;0;0;0;1;1;0;0;1;0;0;0;0;1;1;0;0;0;0;0;0;1;1;0
+Model Cards for Model Reporting in 2024: Reclassifying Category of Ethical Considerations in Terms of Trustworthiness and Risk Management;https://doi.org/10.48550/arXiv.2403.15394;0;1;0;0;0;0;0;1;1;0;0;0;1;1;1;0;0;0;0;1;0;0;0;1;0;0;0;1;1;0
+Model Reporting for Certifiable AI: A Proposal from Merging EU Regulation into AI Development;https://doi.org/10.48550/arXiv.2307.11525;1;0;0;1;0;0;0;1;0;0;1;0;1;1;0;0;1;1;0;0;0;1;0;0;0;1;0;0;1;0
+The AI Model Risk Catalog: What Developers and Researchers Miss About Real-World AI Harms;https://doi.org/10.48550/arXiv.2508.16672;0;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Towards Sustainability Model Cards;https://doi.org/10.48550/arXiv.2507.19559;0;1;0;0;0;0;0;1;1;0;0;1;0;0;0;1;0;1;0;0;0;0;0;1;0;1;0;0;1;0
+Unlocking Model Insights: A Dataset for Automated Model Card Generation;https://doi.org/10.48550/arXiv.2309.12616;0;1;0;0;0;0;1;0;1;0;0;1;0;0;1;0;0;0;1;0;0;0;0;1;1;0;0;0;0;1
